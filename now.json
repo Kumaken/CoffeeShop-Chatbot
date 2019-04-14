@@ -1,0 +1,11 @@
+{
+  "env": {
+    "CHANNEL_ACCESS_TOKEN": "khULG5tVHJ02y8mv0zfXMlx6iDD9kt15qFFf2S+jRGwcoBCCE3exIVrizV6g4Uv/WMp9hmP8ecizoW3nBKgvUcUxCEhiKwAoXFweSl74Wm52+Zm88xxSf/tLs60bcZFQ3luA82ss+tkJ9nimlEwRZwdB04t89/1O/w1cDnyilFU=",
+    "CHANNEL_SECRET": "3c4c0da769069daeb9893f7c0debd159",
+    "WIT_AI_ACCESS_TOKEN": "PPPT3JKHBVVEGONMGJDL7LXSL2UEANY7",
+    "REDIS_HOST": "redis-14648.c89.us-east-1-3.ec2.cloud.redislabs.com",
+    "REDIS_PORT": "14648",
+    "REDIS_PASSWORD":"i0MMIc98Kp1oTaXjLywRwFWCtxaVWBci",
+    "MONGODB_URI": "mongodb+srv://test:test123@cluster0-zsbvg.mongodb.net/test?retryWrites=true"
+  }
+}

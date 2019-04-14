@@ -1,0 +1,27 @@
+{
+  "name": "chatbot_app",
+  "version": "0.0.0",
+  "description": "Single app chatbot by chatbiz",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon -r dotenv/config ."
+  },
+  "dependencies": {
+    "@line/bot-sdk": "^6.3.0",
+    "axios": "^0.18.0",
+    "cors": "^2.8.5",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.17",
+    "node-wit": "^5.0.0",
+    "now-env": "^3.1.0",
+    "redis": "^2.8.0",
+    "restify": "^8.1.0",
+    "restify-plugins": "^1.6.0",
+    "restify-router": "^0.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
